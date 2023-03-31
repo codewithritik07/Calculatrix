@@ -97,7 +97,7 @@
 
 	font-size: 2rem;
 	font-weight: 700;
-	color: #FFF;
+	color: #fefefe;
 }
 
 .keys .key:hover {
@@ -105,9 +105,9 @@
 }
 
 .keys .key.operator span {
-	color: #EB6666;
+	color: #f50101;
 }
 
 .keys .key.action span {
-	color: #26FED7;
+	color: #05f6ca;
 }
