@@ -118,7 +118,7 @@
 
 
 #main_container {
-	font-size: 15px;
+	font-size: 25px;
     width: 800px;
     margin: auto;
 	margin-top: 50%;
@@ -132,20 +132,13 @@
 
 #birth_date_input {
     text-align: center;
-	font-size: 30px;
-	color: rgb(131, 8, 82);
+	font-size: 40px;
+	color: rgb(174, 242, 28);
     margin: 50px;
     margin-left: auto;
     margin-right: auto;
 }
 
-#age_container {
-    text-align: center;
-	color: rgb(131, 8, 82);
-    margin: 20px;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 #age_container {
     margin: 40px 5px;
@@ -153,7 +146,7 @@
     border-radius: 50px;
     border: 1px solid #000;
     font-weight: bolder;
-    background: #EEE;
+    background: #793131;
     font-size: 20px;
     line-height: 40px;
 }
