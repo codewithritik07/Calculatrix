@@ -130,7 +130,16 @@
     border: 3px solid #816a6a;
 }
 
-#birth_date_input, #age_container {
+#birth_date_input {
+    text-align: center;
+	font-size: 30px;
+	color: rgb(131, 8, 82);
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#age_container {
     text-align: center;
 	color: rgb(131, 8, 82);
     margin: 20px;
@@ -152,9 +161,9 @@
 #calculate {
     cursor: pointer;
     text-align: center;
-    width: 200px;
-    padding: 5px;
-    margin: 10px;
+	width: fit-content;
+    padding: 40px;
+    margin: 20px;
     margin-left: auto;
     margin-right: auto;
     border: 0px solid #999;
@@ -190,4 +199,3 @@
 html{
    background-color: #251d3e;
 }
-
