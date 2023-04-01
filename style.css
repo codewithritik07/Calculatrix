@@ -118,13 +118,13 @@
 
 
 #main_container {
-	font-size: 1.0rem;
-    width: 900px;
+	font-size: 15px;
+    width: 800px;
     margin: auto;
-	margin-top: 200px;
+	margin-top: 50%;
     margin-left: auto;
     margin-right: auto;
-    padding: 40px;
+    padding: 20%;
     font-family: sans-serif;
     border-radius: 20px;
     border: 3px solid #816a6a;
